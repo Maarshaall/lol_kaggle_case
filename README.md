@@ -6,7 +6,7 @@ Aquest projecte és un treball universitari d’**aprenentatge computacional** d
 
 L’objectiu és predir quin equip guanyarà una partida de **League of Legends** utilitzant dades de partides classificatòries (ranked) extretes de **Kaggle**.
 
-🔧 **Tecnologies i llibreries**:
+**Tecnologies i llibreries**:
 - `Python`
 - `Jupyter Notebook`
 - `scikit-learn` per a la implementació dels models
@@ -62,12 +62,5 @@ The goal is to predict the winning team in a **League of Legends ranked match**,
   - Gradient Boosting
 - **Hyperparameter tuning** using grid search and cross-validation
 - **Model evaluation and comparison**
-
-You can include plots in an `images/` folder or inside the notebook itself to show:
-- Confusion matrices
-- Accuracy curves
-- Feature importance
-- Training times
-
 ---
 
